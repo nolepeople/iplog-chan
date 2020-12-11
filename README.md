@@ -13,5 +13,8 @@ google maps coordinate
 * requests
 * pyngrok
 
-use : pip3 install -r requirements.txt
+pip3 install -r requirements.txt
+
+##USAGE
+* python3 track.py runserver
 
