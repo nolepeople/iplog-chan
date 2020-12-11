@@ -15,6 +15,6 @@ google maps coordinate
 
 pip3 install -r requirements.txt
 
-##USAGE
+## Usage
 * python3 track.py runserver
 
