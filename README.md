@@ -1,11 +1,13 @@
 # iplog-chan
-address tracking by pressing the url
+address tracking by pressing the url.
+
+mixing with django web framework :3
 
 ## example result
-Terminal Display
+Terminal Display <br><br>
 ![Screenshot](.img/p1.png)
-
-google maps coordinate
+<br><br>
+google maps coordinate<br><br>
 ![Screenshot](.img/p2.png)
 
 ## module required
@@ -15,6 +17,13 @@ google maps coordinate
 
 pip3 install -r requirements.txt
 
-## Usage
+## For the first time using
+
+* python3 track.py makemigrations
+* python3 track.py migrate
+
+after that you don't need to repeat the command
+
+# usage <3
 * python3 track.py runserver
 
