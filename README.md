@@ -1,5 +1,6 @@
 # iplog-chan
-address tracking by pressing the url
+address tracking by pressing the url.
+mixing with django web framework :3
 
 ## example result
 Terminal Display <br><br>
