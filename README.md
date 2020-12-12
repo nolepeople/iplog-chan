@@ -16,5 +16,9 @@ google maps coordinate
 pip3 install -r requirements.txt
 
 ## Usage
+for the first time using 
+* python3 track.py makemigrations
+* python3 track.py migrate
+after that you don't need to repeat the command
 * python3 track.py runserver
 
