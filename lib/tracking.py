@@ -8,6 +8,7 @@ class trytrack:
         "http://api.ipapi.com/103.119.54.215?access_key="
 
     def here(self):
+        #kalian bisa gunakan key sendiri bisa daftar di ipapi.com
         self.key = "7d2d0f053402c59d89729950f153ff3c"
         self.req = post("{}{}".format(
             self.url,self.key
