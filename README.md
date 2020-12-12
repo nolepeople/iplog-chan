@@ -2,10 +2,10 @@
 address tracking by pressing the url
 
 ## example result
-Terminal Display
+Terminal Display <br><br>
 ![Screenshot](.img/p1.png)
 <br><br>
-google maps coordinate
+google maps coordinate<br>
 ![Screenshot](.img/p2.png)
 
 ## module required
