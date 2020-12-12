@@ -5,7 +5,7 @@ class trytrack:
     def __init__(self,ip):
         self.ip = ip.replace('"',"")
         self.url = \
-        "http://api.ipapi.com/103.119.54.215?access_key="
+        "http://api.ipapi.com/{}?access_key=".format(self.ip)
 
     def here(self):
         #kalian bisa gunakan key sendiri bisa daftar di ipapi.com
