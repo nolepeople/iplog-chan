@@ -5,7 +5,7 @@ address tracking by pressing the url
 Terminal Display <br><br>
 ![Screenshot](.img/p1.png)
 <br><br>
-google maps coordinate<br>
+google maps coordinate<br><br>
 ![Screenshot](.img/p2.png)
 
 ## module required
